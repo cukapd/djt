@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Jawla Tech Solutions
+title: Desktop - Jawla Tech
 
 # Your name to show in the footer
 author: Jawla
@@ -14,13 +14,10 @@ author: Jawla
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Connect:
-    - About Us: "/aboutus"
-    - Contact Us: "/contactus"
-  Resources:
-    - Top Android Utilities: ""
-    - Best PC Utilities: ""
-    - How To's: ""
+  Home: "https://android.jawlatech.ml"
+  Android: "https://android.jawlatech.ml"
+  Desktop ✴️: "https://desktop.jawlatech.ml"
+  Web: "https://web.jawlatech.ml"
 
 # --- Logo --- #
 
@@ -93,7 +90,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "jawla,tech,solutions,technology,techy,geek,blog,harshit,apps,utility"
+keywords: "jawla,tech,solutions,technology,techy,geek,blog,harshit,apps,utility,pc,desktop,windows,linux,tricks"
 
 # --- Colours / background image --- #
 
@@ -131,10 +128,10 @@ footer-link-col: "#404040"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "G-SNC20NX76Q"
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "G-SNC20NX76Q"
+#google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
