@@ -23,7 +23,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/jt_logo_192.png"
+avatar: "https://lh3.googleusercontent.com/Jb39T6UdwUXw6xinJCL4JKp_p-9EF95BS8TAFJEaZx_Zr8DQS-hlF--tq00Sfo0eay8Y9th_33sS-zZ3_1lI2ze1si2myzVhTuBgozL3E0h4Au9TfTCf1B877-qJguc2wSb2Q_vsNpWhjFSpDNj9cGIbfKH3Iao4KBwBpQcRNndu1h_mbatVA52-fFzymC5OOtl7I-H08GJhGShQuhR_sAejqoKfye44__hT82tOpXUNFXMx-O1Np-JDjz5IdfySCPe35B3OBqyj2p8cc46IiKy_p1Rr4YfS1dRxOoPZiZlz2wfAJhpb2n_3p3y4e9cMP1k6t7u0JaRPP-2eZZICY3rjJSE6A8ODgYwF9e7UYN4pn2jdUBdUg82ptDKWIesIYEjToOmmGGK1ldoXTD9pvq-UJRWv2b69_M_q2bMxGXwfvOSBdZmmB6ozDMwhqRp7v3j8RscrNpkyd4X9LIXGzFLx7-7kcE8bmeGo596besitB3M8fFNlWk6KM7AceM6ntYi5FVd-DkAM011ItDi796T5U-wKhfWS3I7nki14Nrsuw0J5yY4Ri5GnWc_W0SmWvLo1G6spKE1mMBdnmYPAukpEA9fppeygJRFlQ6pzqGnQSCtxQr0SxEOelwt38_fk9fWO3EL_gUwEcACjLbFRUgRmjQE-CVuEMQqGSd-Zn_gk431y4Luc_YZWZQ=s192-no?authuser=0"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
