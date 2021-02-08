@@ -81,6 +81,7 @@
 
   {% if site.title %}
   <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {%- capture img -%}
@@ -105,7 +106,6 @@
 
   {% if img != "" %}
   <meta property="og:image" content="{{ img | absolute_url }}">
-  <meta property="thumbnail" content="{{ img | absolute_url }}">
   {% endif %}
 
   {% if page.id %}
