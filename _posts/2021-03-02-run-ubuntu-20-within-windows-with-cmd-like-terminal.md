@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to to run ubuntu 20.0.4 lts within windows with commandline support - windows subsystem for linux
+title: How to to run ubuntu 20.0.4 lts within windows commandline
 cover-img: https://lh3.googleusercontent.com/eUxB93-agviKeANyGEMb3zz4e2k-hMkTjgBc2ATL-2txyBMKiCYX3s7y-udlTfsR9R8QBa5HiCRB08zozMP08c5G3t_IGBQ_C346e6zWlhMhg3-jF_EFMS89dc-QLy3cMr4cJY4XiA=w2400
 tags: [Windows 10,Apps,Tricks,Geek,Dev,Linux,Ubuntu]
 comments: true
