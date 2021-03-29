@@ -24,8 +24,7 @@ last-updated: 2020-01-22
 
 1. Download Ubuntu 20.0.4 lts for windows
 
-   Link: [http://tlu.dl.delivery.mp.microsoft.com/filestreamin](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f544ddc-8368-488c-920a-ea5cd5f08270?P1=1617056897&P2=404&P3=2&P4=Bgoc9RkMpNpsptmkIlLWRtCfGoeBbDfIuCaDf%2fHTrx4zt8dHh8J9fL3TTrsGF4MREtY4cKGBfkGoxfL4yF1HnQ%3d%3d)
-
+   Link: [http://tlu.dl.delivery.mp.microsoft.com/filestreamin](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f544ddc-8368-488c-920a-ea5cd5f08270?P1=1617056897&P2=404&P3=2&P4=Bgoc9RkMpNpsptmkIlLWRtCfGoeBbDfIuCaDf%2fHTrx4zt8dHh8J9fL3TTrsGF4MREtY4cKGBfkGoxfL4yF1HnQ%3d%3d){:target="_blank"}
 
 2. Install ubuntu lts 20.0.4 and restart pc
 
