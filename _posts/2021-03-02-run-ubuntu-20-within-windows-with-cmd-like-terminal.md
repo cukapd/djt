@@ -22,15 +22,27 @@ last-updated: 2021-03-9
 {: .box-note}
 • Steps:
 
-1. Download Ubuntu 20.0.4 lts for windows
+1. Copy the following link.
 
-   Link: [http://tlu.dl.delivery.mp.microsoft.com/filestreamin](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f544ddc-8368-488c-920a-ea5cd5f08270?P1=1617056897&P2=404&P3=2&P4=Bgoc9RkMpNpsptmkIlLWRtCfGoeBbDfIuCaDf%2fHTrx4zt8dHh8J9fL3TTrsGF4MREtY4cKGBfkGoxfL4yF1HnQ%3d%3d){:target="_blank"}
+   Link: [https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71){:target="_blank"}
+
+2. Go to AdGuard website. 
+
+   (This will generate a direct link as an alternative to download app from microsoft store)
+
+   Link: [https://store.rg-adguard.net/](https://store.rg-adguard.net/){:target="_blank"}
+
+3. Paste the copied link in search box of adguard's website.
+
+4. Now 4 links would be generated. 
+
+   Download the app from the last (fourth) link (~866.08 MB).
 
 2. Install ubuntu lts 20.0.4 and restart pc
 
 3. Now run the commandline for ubuntu lts and configure (name passwd etc)
 
-4. Optionally add the ubuntu cmd to taskbar (for easy access)
+4. Optionally add the ubuntu cmd to taskbar (for ease of access)
 
 5. You now can access the ubuntu terminal from any folder. 
 
