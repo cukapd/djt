@@ -38,14 +38,14 @@ last-updated: 2021-03-9
 
    Download the app from the last (fourth) link (~866.08 MB).
 
-2. Install ubuntu lts 20.0.4 and restart pc
+5. Install ubuntu lts 20.0.4 and restart pc
 
-3. Now run the commandline for ubuntu lts and configure (name passwd etc)
+6. Now run the commandline for ubuntu lts and configure (name passwd etc)
 
-4. Optionally add the ubuntu cmd to taskbar (for ease of access)
+7. Optionally add the ubuntu cmd to taskbar (for ease of access)
 
-5. You now can access the ubuntu terminal from any folder. 
+8. You now can access the ubuntu terminal from any folder. 
 
-6. Goto any folder in file explorer. Shift+RightClick and choose open ubuntu commandline here. 
+9. Goto any folder in file explorer. Shift+RightClick and choose open ubuntu commandline here. 
 
    Hey. You have made it correct. Ran ubuntu in windows ;)
